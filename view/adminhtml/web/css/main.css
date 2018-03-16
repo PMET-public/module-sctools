@@ -1,0 +1,4 @@
+.admin__menu .item-sctoolsmenu.parent.level-0 > a:before,
+.admin__menu .item-sctoolsmenu.level-0 > a:before {
+  content: "\e606";
+}
